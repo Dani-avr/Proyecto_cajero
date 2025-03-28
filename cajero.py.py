@@ -69,3 +69,6 @@ while True:
     else:
         print('Error: no seleccionó una opción válida')
 
+lista_nueva = ["Dani", "Suki", "Coco"]
+
+
